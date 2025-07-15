@@ -1,1 +1,163 @@
-[]
+[
+    {
+      "id": "wolf",
+      "type": "entity",
+      "label": "Wolf",
+      "description": "Guardian of the threshold. Appears in dreams of exile, wild memory, and initiation.",
+      "related": ["exile", "initiation", "freedom"],
+      "glyph_svg": "/assets/glyphs/wolf.svg"
+    },
+    {
+      "id": "squash",
+      "type": "entity",
+      "label": "Squash",
+      "description": "Feminine fertility, ancestral agriculture, sustenance and grounded abundance.",
+      "related": ["fertility", "earth", "motherhood"],
+      "glyph_svg": "/assets/glyphs/squash.svg"
+    },
+    {
+      "id": "fire",
+      "type": "element",
+      "label": "Fire",
+      "description": "The purifying flame. Desire, transformation, destruction and light.",
+      "related": ["will", "sacrifice", "initiation"],
+      "glyph_svg": "/assets/glyphs/fire.svg"
+    },
+    {
+      "id": "water",
+      "type": "element",
+      "label": "Water",
+      "description": "Emotion, the unconscious, the lunar tides of feeling and return.",
+      "related": ["grief", "rebirth", "flow"],
+      "glyph_svg": "/assets/glyphs/water.svg"
+    },
+    {
+      "id": "air",
+      "type": "element",
+      "label": "Air",
+      "description": "Breath, speech, clarity, and invisible threads of connection.",
+      "related": ["intellect", "spirit", "wind"],
+      "glyph_svg": "/assets/glyphs/air.svg"
+    },
+    {
+      "id": "earth",
+      "type": "element",
+      "label": "Earth",
+      "description": "Ground, memory, soil, home. The slow turning of time into form.",
+      "related": ["body", "structure", "belonging"],
+      "glyph_svg": "/assets/glyphs/earth.svg"
+    },
+    {
+      "id": "motherhood",
+      "type": "concept",
+      "label": "Motherhood",
+      "description": "Birthgiver, nurturer, and the sacrifice of self for life’s continuation.",
+      "related": ["sacrifice", "squash", "lineage"],
+      "glyph_svg": "/assets/glyphs/motherhood.svg"
+    },
+    {
+      "id": "death",
+      "type": "concept",
+      "label": "Death",
+      "description": "The great return. The dissolver of form, the truth behind all stories.",
+      "related": ["rebirth", "underworld", "water"],
+      "glyph_svg": "/assets/glyphs/death.svg"
+    },
+    {
+      "id": "revolution",
+      "type": "concept",
+      "label": "Revolution",
+      "description": "Uprising, cyclical turning, transformation of the collective will.",
+      "related": ["fire", "freedom", "chaos"],
+      "glyph_svg": "/assets/glyphs/revolution.svg"
+    },
+    {
+      "id": "freedom",
+      "type": "concept",
+      "label": "Freedom",
+      "description": "Unbound spirit, wild action, and the right to choose one’s dance.",
+      "related": ["wolf", "air", "revolution"],
+      "glyph_svg": "/assets/glyphs/freedom.svg"
+    },
+    {
+      "id": "trickster",
+      "type": "archetype",
+      "label": "Trickster",
+      "description": "Shapeshifter, sacred fool, destroyer of fixed truths. The laughter beneath control.",
+      "related": ["chaos", "play", "truth"],
+      "glyph_svg": "/assets/glyphs/trickster.svg"
+    },
+    {
+      "id": "healer",
+      "type": "archetype",
+      "label": "Healer",
+      "description": "One who descends into pain and returns bearing medicine. Carries both wound and cure.",
+      "related": ["water", "wound", "service"],
+      "glyph_svg": "/assets/glyphs/healer.svg"
+    },
+    {
+      "id": "initiation",
+      "type": "pattern",
+      "label": "Initiation",
+      "description": "A rupture in the known. The descent that leads to a greater return.",
+      "related": ["death", "wolf", "sacrifice"],
+      "glyph_svg": "/assets/glyphs/initiation.svg"
+    },
+    {
+      "id": "duality",
+      "type": "pattern",
+      "label": "Duality",
+      "description": "The pull between opposites: light and shadow, freedom and order.",
+      "related": ["balance", "conflict", "mirror"],
+      "glyph_svg": "/assets/glyphs/duality.svg"
+    },
+    {
+      "id": "underworld",
+      "type": "entity",
+      "label": "Underworld",
+      "description": "The buried, the unseen, the place of shadow integration and ancestral voice.",
+      "related": ["death", "initiation", "darkness"],
+      "glyph_svg": "/assets/glyphs/underworld.svg"
+    },
+    {
+      "id": "seed",
+      "type": "entity",
+      "label": "Seed",
+      "description": "Beginning in stillness. A compact of potential, memory, and future.",
+      "related": ["earth", "growth", "time"],
+      "glyph_svg": "/assets/glyphs/seed.svg"
+    },
+    {
+      "id": "dream",
+      "type": "concept",
+      "label": "Dream",
+      "description": "The vision beyond logic. Nonlinear insight. The mapless compass of soul.",
+      "related": ["air", "imagination", "truth"],
+      "glyph_svg": "/assets/glyphs/dream.svg"
+    },
+    {
+      "id": "sacrifice",
+      "type": "concept",
+      "label": "Sacrifice",
+      "description": "The sacred exchange. Giving something to make room for something greater.",
+      "related": ["fire", "motherhood", "initiation"],
+      "glyph_svg": "/assets/glyphs/sacrifice.svg"
+    },
+    {
+      "id": "rain",
+      "type": "entity",
+      "label": "Rain",
+      "description": "Tears of the sky. Nourishment, grief, and the blessing that follows dryness.",
+      "related": ["water", "cleansing", "rebirth"],
+      "glyph_svg": "/assets/glyphs/rain.svg"
+    },
+    {
+      "id": "mirror",
+      "type": "entity",
+      "label": "Mirror",
+      "description": "Reflection, reversal, the dance of self and other. Shadow work and insight.",
+      "related": ["duality", "trickster", "truth"],
+      "glyph_svg": "/assets/glyphs/mirror.svg"
+    }
+  ]
+  
